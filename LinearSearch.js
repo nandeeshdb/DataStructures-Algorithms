@@ -13,7 +13,7 @@ function LinearSearch(arr,target){
     return -1
 }
 
-console.log(LinearSearch([1,2,4,6,7,8,11],6))
+console.log(LinearSearch([1,2,4,6,7,8,11],23))
 
 //Big-O -> O(n)
 
